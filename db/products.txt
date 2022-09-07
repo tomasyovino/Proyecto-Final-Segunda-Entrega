@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0,
+    "title": "Zapatillas",
+    "description": "Lorem ipsum dolor sit amet, constantinople...",
+    "code": "5a776f0f462647be0f9be5a61102ce2d",
+    "thumbnail": "zapatillas.com.ar",
+    "price": "800",
+    "stock": 999,
+    "id": 1
+  },
+  {
+    "timestamp": 0,
+    "title": "remera",
+    "description": "Lorem ipsum dolor sit amet, constantinople...",
+    "code": "88d2706c52ba4628008a9d82e43c73b3",
+    "thumbnail": "ropa.com.ar",
+    "price": "600",
+    "stock": 999,
+    "id": 2
+  },
+  {
+    "timestamp": 0,
+    "title": "Campera",
+    "description": "Lorem ipsum dolor sit amet, constantinople...",
+    "code": "074fd3bbdb114161059eea97dec9d428",
+    "thumbnail": "ropa/verano.com",
+    "price": "8000",
+    "stock": 999,
+    "id": 3
+  }
+]
